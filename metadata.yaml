@@ -1,0 +1,29 @@
+_repo: A-Dictionary-of-English-Synonymes-and-Synonymous-or-Parallel-ExpressionsDesigned-as-a-Practic__38390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Soule, Richard
+    birthdate: 1812
+    deathdate: 1877
+    gutenberg_agent_id: '39437'
+    url: http://www.gutenberg.org/2009/agents/39437
+description: ''
+gutenberg_issued: '2011-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38390'
+  lccn: '01011167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Synonyms and antonyms'
+title: 'A Dictionary of English Synonymes and Synonymous or Parallel Expressions
+
+  Designed as a Practical Guide to Aptness and Variety of Phraseology'
+url: http://www.gutenberg.org/ebooks/38390
