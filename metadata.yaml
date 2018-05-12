@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39437'
     url: http://www.gutenberg.org/2009/agents/39437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38390#A-Dictionary-of-English-Synonymes-and-Synonymous-or-Parallel-ExpressionsDesigned-as-a-Practic_
 gutenberg_issued: '2011-12-23'
 gutenberg_type: Text
 identifiers:
